@@ -1,0 +1,7 @@
+import pandas as pd
+df = pd.DataFrame({'column1' : [1,4,7,10],
+            'column2' : [2,5,8,11],
+            'column3' : [3,6,9,12]})
+
+print(df)
+print(df.column1)
