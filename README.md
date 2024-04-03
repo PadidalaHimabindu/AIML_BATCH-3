@@ -8,3 +8,4 @@
 7.[Assignment 5](https://github.com/PadidalaHimabindu/AIML_BATCH-3/blob/main/Assignment5.ipynb)
 8.[Assignment 6](https://github.com/PadidalaHimabindu/AIML_BATCH-3/blob/main/Assignment_6.ipynb)
 9.[Assignment 7](https://github.com/PadidalaHimabindu/AIML_BATCH-3/blob/main/Assignment_7.ipynb)
+10.[Assignment 8](https://github.com/PadidalaHimabindu/AIML_BATCH-3/blob/main/Assignment_8.ipynb)
